@@ -2,6 +2,7 @@
   "name": "pokerdragon/color-admin",
   "description": "Color-Admin - admin control panel and dashboard that's based on Bootstrap 3",
   "homepage": "https://github.com/pokerdragon/",
+  "type":"html",
   "keywords": [
     "css",
     "js",
