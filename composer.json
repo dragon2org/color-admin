@@ -1,0 +1,25 @@
+{
+  "name": "pokerdragon/color-admin",
+  "description": "Color-Admin - admin control panel and dashboard that's based on Bootstrap 3",
+  "homepage": "https://github.com/pokerdragon/",
+  "keywords": [
+    "css",
+    "js",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Poker Dragon",
+      "email": "pokerdragon@gmall.com"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/pokerdragon/color-admin/issues"
+  }
+}
